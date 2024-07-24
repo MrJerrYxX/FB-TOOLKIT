@@ -9,7 +9,7 @@ pkg install python
 rm -rf FB-TOOLKIT
 git clone --depth=1 https://github.com/MrJerrYxX/FB-TOOLKIT.git
 cd FB-TOOLKIT
-python3 autoreg.py
+python3 augoreg.py
 ```
 
 <h5 align="center"><b>DESCRIPTION</b></h5>
